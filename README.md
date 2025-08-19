@@ -13,6 +13,7 @@
 - 📂 Load a wordlist for brute-force attempts  
 - 🔑 Attempt password cracking using **WPA2 PSK**  
 - 💻 Works with **internal laptop Wi-Fi chip** (no external adapter needed)  
+- 🪟 **Better performance on Windows OS**  
 
 ---
 
@@ -33,6 +34,7 @@
 - ✅ Works **without an external Wi-Fi adapter** (uses your **internal laptop Wi-Fi chip**)  
 - ✅ Displays **success/failure messages** in GUI  
 - ✅ Logs attempts to console for debugging  
+- ✅ **Optimized for Windows**, though works on Linux with proper drivers  
 
 ---
 
@@ -48,6 +50,7 @@
 - Uses **PyWiFi**’s `connect()` method — no monitor mode or packet injection needed.  
 - Works on **internal Wi-Fi chips** that support standard connection attempts.  
 - WPA2-PSK only; WPA3 not supported.  
+- 🪟 **Recommended to use on Windows for best compatibility and reliability**  
 
 ---
 
