@@ -1,3 +1,10 @@
+#########################################
+# Author: Aryan
+# Copyright: 2025 Aryan
+# GitHub: https://github.com/yourusername
+# Note: Unauthorized copying without credit is prohibited
+#########################################
+
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import pywifi
